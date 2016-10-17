@@ -2,7 +2,7 @@
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-export GITFLOW_VERSION="3.0-SNAPSHOT"
+export GITFLOW_VERSION="3.0"
 # export M2_HOME=C:/apache-maven-3.0.5
 export M2_HOME=C:/apache-maven-3.3.9
 
