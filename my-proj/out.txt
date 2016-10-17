@@ -1,0 +1,19 @@
+[INFO] Searching for local aggregator root...
+[INFO] Local aggregation root: C:\Dev\GitHub\GitFlow\gf-test\my-proj
+[INFO] Processing change of com.mycompany:my-proj:1.0-SNAPSHOT -> 1.1-SNAPSHOT
+[INFO] Processing com.mycompany:my-proj
+[INFO]     Updating project com.mycompany:my-proj
+[INFO]         from version 1.0-SNAPSHOT to 1.1-SNAPSHOT
+[INFO] 
+[INFO] Processing com.mycompany:my-proj-module1
+[INFO]     Updating parent com.mycompany:my-proj
+[INFO]         from version 1.0-SNAPSHOT to 1.1-SNAPSHOT
+[INFO]     Updating project com.mycompany:my-proj-module1
+[INFO]         from version 1.0-SNAPSHOT to 1.1-SNAPSHOT
+[INFO] 
+[INFO] Processing com.mycompany:my-proj-module2
+[INFO]     Updating parent com.mycompany:my-proj
+[INFO]         from version 1.0-SNAPSHOT to 1.1-SNAPSHOT
+[INFO]     Updating project com.mycompany:my-proj-module2
+[INFO]         from version 1.0-SNAPSHOT to 1.1-SNAPSHOT
+[INFO] 
