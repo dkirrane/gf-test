@@ -3,8 +3,8 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 export GITFLOW_VERSION="3.0"
-# export M2_HOME=C:/apache-maven-3.0.5
-export M2_HOME=C:/apache-maven-3.3.9
+export M2_HOME=C:/apache-maven-3.0.5
+# export M2_HOME=C:/apache-maven-3.3.9
 
 # Maven attach Debugger
 # export MAVEN_OPTS="-Xdebug -Xnoagent -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8000"
